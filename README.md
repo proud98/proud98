@@ -1,6 +1,6 @@
 <h1 align="center">🐣 Let's Study Rang 🐣</h1>
 
-<h3 align="center">💛안녕하세요 ! 공부중인 예비 개발자 입니다💛 </h3>
+<h3 align="center">💛안녕하세요! 공부중인 예비 개발자 입니다💛 </h3>
 <br>
 
 <div align="center">
@@ -14,8 +14,10 @@
    <img src="https://img.shields.io/badge/jQuery-F6B0B6?style=flat&logo=jQuery&logoColor=white" />
    <img src="https://img.shields.io/badge/Bootstrap-CCCCFF?style=flat&logo=Bootstrap&logoColor=white" />
    <br>
-   <img src="https://img.shields.io/badge/Oracle%20SQL-C1F0B4?style=flat&logo=Oracle&logoColor=white" />
+   <img src="https://img.shields.io/badge/Mybatis-756E74?style=flat&logo=Fluentd&logoColor=white" />
    <img src="https://img.shields.io/badge/MySQL-7d9dcd?style=flat&logo=MySQL&logoColor=white" />
+   <img src="https://img.shields.io/badge/Oracle%20SQL-C1F0B4?style=flat&logo=Oracle&logoColor=white" />
+   
 <br>
 <br>
 
