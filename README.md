@@ -1,6 +1,6 @@
 <h1 align="center">🐣 Let's Study Rang 🐣</h1>
 
-<h3 align="center">💛안녕하세요 ! 현재 공부중인 예비 개발자 입니다💛 </h3>
+<h3 align="center">💛안녕하세요 ! 공부중인 예비 개발자 입니다💛 </h3>
 <br>
 
 <div align="center">
