@@ -1,7 +1,29 @@
-<h1 align="center">🐣 Let's Study Rang 🐣</h1>
 
-<h3 align="center">💛안녕하세요! 공부중인 예비 개발자 입니다💛 </h3>
+<div align="center">
 <br>
+ 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=000000&size=30&center=true&lines=Hello+World+!&nbsp;+I'm+harang+&nbsp;+💛+&nbsp;)
+</div>
+ 
+* * *
+
+<br>
+
+<div align="center">
+  <h3><b> :books: Education </b></h3>
+  <h5> ⦁ 쌍용교육센터 풀 스택 웹개발자 양성과정 2022.12.26 - 2023.06.12 </h5>
+  <h5> ⦁ 안동대학교 무역학과 졸업 2021.08 </h5>
+
+<br>
+
+### 🔍 Introduce me
+<!-- - 링크드인: https://www.linkedin.com/in/moonhy7 -->
+포트폴리오: https://juharang-portfolio.notion.site/70ca779c758d42b39c7e2a60c72c00c5?pvs=4 <br>
+블로그 : https://blog.naver.com/study_rang
+
+<br>
+   <br>
+</div>
 
 <div align="center">
    <img src="https://img.shields.io/badge/Java-ff8b94?style=flat&logo=Conda-Forge&logoColor=white"/>
